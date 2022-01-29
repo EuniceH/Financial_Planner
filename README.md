@@ -69,7 +69,7 @@ https://data.nasdaq.com/
 The API keys are required to store under `.env` file in order for the application to retrieve the API keys.
 
 The following image shows a suggestion for the format:
-![keyformat](financial_planner/images/apikey.png)
+![apikey](financial_planner/images/apikey.png)
 
 After inputs, then re-run the jupyter book to produce forecasts and plots for the portfolio simulation with Monte Carlo simulation.
 
